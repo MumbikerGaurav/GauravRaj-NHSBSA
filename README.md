@@ -2,6 +2,7 @@
 Sample automation suite on Selenium Cucumber Java Maven Junit framework
 
 Selenium Maven automation assignment NHSBSA: Pre-requisite to run from command line:
+
 Step 1:
 
 •	Maven to be installed
